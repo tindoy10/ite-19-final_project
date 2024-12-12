@@ -1,6 +1,6 @@
-MMMCMXCIX + MDCLXVI      // 3999 + 1666 = 5665
-MMMMCDXLIV - MMCCXXII    // 4444 - 2222 = 2222
-C * XL                   // 100 * 40    = 4000
-MMM / L                  // 3000 / 50   = 60
-DCCC - MMMCMXCIX         // 800 - 3999  = -3199
+MMMCMXCIX + MDCLXVI     
+MMMMCDXLIV - MMCCXXII   
+C * XL                  
+MMM / L                 
+DCCC - MMMCMXCIX         
 MMmmM s mmmm
